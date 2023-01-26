@@ -1,16 +1,22 @@
-### Hi there 👋
+### hello there and welcome to my profile!
 
-<!--
-**maricalmer/maricalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am mari calmer, full stack developer - constantly growing through learning.
 
-Here are some ideas to get you started:
+i design remarkable front-end user experiences, supported by performant and robust  backend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tech stack
+
+front: html, css, scss, javascript, bootstrap, figma … currently learning react
+
+back: ruby, ruby on rails, postgresql
+
+devops: github actions
+
+
+<details>
+<summary><h2>stats</h2></summary>
+<br />
+<!--START_SECTION:data-section-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maricalmer&theme=nightowl" />
+<!--END_SECTION:data-section-->
+</details>
