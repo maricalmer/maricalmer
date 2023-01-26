@@ -1,4 +1,4 @@
-### hello there and welcome to my profile!
+## hello there and welcome to my profile!
 
 i am mari calmer, full stack developer - constantly growing through learning.
 
