@@ -1,6 +1,6 @@
 ## hello there and welcome to my profile!
 
-i am mari calmer, full stack developer - constantly growing through learning.
+i am david lemaire, full stack developer - constantly growing through learning.
 
 i design remarkable front-end user experiences, supported by performant and robust  backend architecture.
 
