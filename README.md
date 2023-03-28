@@ -6,7 +6,7 @@ i design remarkable front-end user experiences, supported by performant and robu
 
 ## tech stack
 
-front: html, css, scss, javascript, bootstrap, figma … currently learning react
+front: html, css, scss, javascript, stimulus, bootstrap, figma… currently learning react and redux
 
 back: ruby, ruby on rails, postgresql
 
