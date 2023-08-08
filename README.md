@@ -2,13 +2,13 @@
 
 i am david lemaire, full stack developer - constantly growing through learning.
 
-i design remarkable front-end user experiences, supported by performant and robust  backend architecture.
+i design remarkable front-end user experiences, supported by performant and robust backend architecture.
 
 ## tech stack
 
-front: html, css, scss, javascript, stimulus, bootstrap, figma… currently learning react and redux
+front: javascript, react, stimulus, html, css, scss, styled components, tailwind, bootstrap, figma… currently learning graphql
 
-back: ruby, ruby on rails, postgresql
+back: ruby, ruby on rails, postgresql, rspec
 
 devops: github actions
 
