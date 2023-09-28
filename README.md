@@ -6,9 +6,9 @@ i design remarkable front-end user experiences, supported by performant and robu
 
 ## tech stack
 
-front: javascript, react, stimulus, html, css, scss, styled components, tailwind, bootstrap, figma… currently learning graphql
+front: javascript, react, stimulus, html, css, scss, styled components, tailwind, bootstrap, figma… currently learning node.js and three.js
 
-back: ruby, ruby on rails, postgresql, rspec
+back: ruby, ruby on rails, postgresql, rspec, graphql
 
 devops: github actions
 
