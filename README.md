@@ -10,7 +10,7 @@ front: javascript, react, stimulus, html, css, scss, styled components, tailwind
 
 back: ruby, ruby on rails, postgresql, rspec, graphql
 
-devops: github actions
+devops: github actions, heroku, netlify, trello
 
 
 <details>
