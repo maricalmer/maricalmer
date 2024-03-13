@@ -2,15 +2,19 @@
 
 i am david lemaire, full stack developer - constantly growing through learning.
 
-i design remarkable front-end user experiences, supported by performant and robust backend architecture.
+i would love to work on your website, check some of my projects at maricalmer.com
+
+:)
 
 ## tech stack
 
-front: javascript, react, stimulus, html, css, scss, styled components, tailwind, bootstrap, figma… currently learning node.js and three.js
+front: javascript, typescript, react, next.js, stimulus, html, css, scss, styled components, tailwind, bootstrap… currently learning c and three.js
 
-back: ruby, ruby on rails, postgresql, rspec, graphql
+back: ruby on rails, postgresql, graphql
 
-devops: github actions, heroku, netlify, trello
+testing: rspec, minitest, jest
+
+devops: github actions, heroku, aws, netlify, koyeb, cockroachDB
 
 
 <details>
