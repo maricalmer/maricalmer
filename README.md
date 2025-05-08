@@ -1,21 +1,22 @@
-## hello there and welcome to my profile!
+## hello there!
 
-i am david lemaire, full stack developer - constantly growing through learning.
+i am david lemaire, software development student at 42 Berlin - constantly growing through learning!
 
-i would love to work on your website, check some of my projects at maricalmer.com
+check some of my projects at maricalmer.com
 
 :)
 
 ## tech stack
 
-front: javascript, typescript, react, next.js, stimulus, html, css, scss, styled components, tailwind, bootstrap… currently learning c and three.js
+front: javascript, typescript, react, next.js, stimulus, html, css, scss, styled components, tailwind, bootstrap
 
 back: ruby on rails, postgresql, graphql
 
 testing: rspec, minitest, jest
 
-devops: github actions, heroku, aws, netlify, koyeb, cockroachDB
+devops: github actions, heroku, render, aws, netlify, koyeb, cockroachDB
 
+currently learning c and c++
 
 <details>
 <summary><h2>stats</h2></summary>
