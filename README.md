@@ -8,13 +8,13 @@ check some of my projects at maricalmer.com
 
 ## tech stack
 
-front: javascript, typescript, react, next.js, stimulus, html, css, scss, styled components, tailwind, bootstrap
+<u>front:</u> javascript, typescript, react, next.js, stimulus, html, css, scss, styled components, tailwind, bootstrap
 
-back: ruby on rails, postgresql, graphql
+<u>back:</u> ruby on rails, postgresql, graphql
 
-testing: rspec, minitest, jest
+<u>testing:</u> rspec, minitest, jest
 
-devops: github actions, heroku, render, aws, netlify, koyeb, cockroachDB
+<u>devops:</u> github actions, heroku, render, aws, netlify, koyeb, cockroachDB
 
 currently learning c and c++
 
