@@ -16,6 +16,8 @@ check some of my projects at maricalmer.com
 
 <ins>devops:</ins> github actions, heroku, render, aws, netlify, koyeb, cockroachDB
 
+<ins>version control:</ins> git
+
 currently learning c and c++
 
 <details>
