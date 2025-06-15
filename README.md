@@ -12,13 +12,15 @@ check some of my projects at maricalmer.com
 
 <ins>back:</ins> ruby on rails, postgresql, graphql
 
-<ins>testing:</ins> rspec, minitest, jest
+<ins>systems / low-level:</ins> c
+
+<ins>testing:</ins> rspec, minitest, jest, cunit, unity
 
 <ins>devops:</ins> github actions, heroku, render, aws, netlify, koyeb, cockroachDB
 
 <ins>version control:</ins> git
 
-currently learning c and c++
+currently learning c++
 
 <details>
 <summary><h2>stats</h2></summary>
